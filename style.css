@@ -1,0 +1,8 @@
+a:hover {
+  font-weight: bold;
+  text-decoration-line: underline;
+}
+
+a:active {
+  font-style: italic;
+}
