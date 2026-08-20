@@ -90,3 +90,11 @@ a:hover {
 a:active {
   font-style: italic;
 }
+
+.skills li p {
+  display: inline;
+}
+
+.skills img {
+  margin: 15px;
+}
